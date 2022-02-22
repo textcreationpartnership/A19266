@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and most dreadfull discourse of a woman possessed with the Deuill who in the likenesse of a headlesse beare fetched her out of her bedd, and in the presence of seuen persons, most straungely roulled her thorow three chambers, and doune a high paire of staiers, on the fower and twentie of May last. 1584. At Dichet in Sommersetshire. A matter as miraculous as euer was seen in our time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1584</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19266</idno>
+            <idno type="STC">STC 5681</idno>
+            <idno type="STC">ESTC S118208</idno>
+            <idno type="EEBO-CITATION">99853416</idno>
+            <idno type="PROQUEST">99853416</idno>
+            <idno type="VID">18799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 418:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and most dreadfull discourse of a woman possessed with the Deuill who in the likenesse of a headlesse beare fetched her out of her bedd, and in the presence of seuen persons, most straungely roulled her thorow three chambers, and doune a high paire of staiers, on the fower and twentie of May last. 1584. At Dichet in Sommersetshire. A matter as miraculous as euer was seen in our time.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By J. Kingston] for Thomas Nelson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1584]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For a revised version see STC 14068--STC.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cooper, Margaret.</term>
+               <term>Apparitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18799:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:18799:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <hi>A true and moſt Dreadfull diſcourſe of a wo<g ref="char:EOLhyphen"/>man <hi>poſſeſſed with the Deuill: who in</hi>
+               </hi> the likeneſſe of a headleſſe Beare fet<g ref="char:EOLhyphen"/>ched <hi>her out of her Bedd, and in the preſence of ſe<g ref="char:EOLhyphen"/>uen</hi> perſons, moſt ſtraungely roulled her tho<g ref="char:EOLhyphen"/>row three Chambers, and doune a high paire of ſtaiers, on the fower and twentie of May laſt. <hi>1584.</hi> At <hi>Dichet</hi> in Som<g ref="char:EOLhyphen"/>merſetſhire. A matter as miraculous as euer was ſeen in our time.</p>
+            <figure>
+               <figDesc>depiction of a headless bear</figDesc>
+            </figure>
+            <p>Imprinted at London for Thomas Nelſon.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:18799:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:18799:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eloued and curtious rea<g ref="char:EOLhyphen"/>der, we haue to conſider by this ſtrange diſcourſe, how redy Sathan is to take hold on vs if we fall from God neuer ſo little. He co<g ref="char:cmbAbbrStroke">̄</g>tinually runneth vp and downe ſeeking whom he may deuour: But notwithſtandyng his temptations which are great, the mercie of God is greater, who neuer faileth to ſend comfort in temptation, if we accept thereof.</p>
+            <p>Great are the examples, both of Gods mercy and might, to put vs in remembrance of our ſinnes which are infinite and lothſome, where<g ref="char:EOLhyphen"/>in if we continue, let vs vndoubtledly looke for the reward thereof, which is an euerlaſting destruction both of bodie and ſoule.</p>
+            <p>Let not this which is here declared ſeeme a fained fable vnto thee, but aſſure thy ſelfe that all ſuch thinges are ſent as warnignes for our wickedneſſe: and to put vs in mynd of the
+<pb facs="tcp:18799:3"/>
+               <!-- PDF PAGE 3 -->ſtaie of our ſaluation, which is an aſſured faith in Chriſt Ieſus: from which piller if wee once ſhrinke, the Tempter is redie to driue vs in to dispaier of Gods mercie.</p>
+            <p>Many are the woonders which hath lately happened, as of ſuddaine and ſtraunge death vpon periured perſons, ſtraunge ſights in the Aier, ſtraunge birthes on the Earth: Earth quakes, commetts and fiery Impreſſions, and all to put vs in mynde of God, whoſe woorkes are wonderfull.</p>
+            <p>Remember the late ſtorme of haylſtones in which many thinges were ſlaine and beaten to to the ground, which Haileſtones were equall in greatneſſe to a Gooſe Egge, of eight inches about.</p>
+            <p>Theſe and ſuche like examples (good Rea<g ref="char:EOLhyphen"/>der) warneth vs to be watchfull for the day of the Lorde which is at hand, leaſt ſodainly his wrath be kindled againſt vs. Let vs therefore pray to almightie God to hold backe his Rod, to be mercifull to vs, and to forgiue vs all that is paſt: that through the aſſi<g ref="char:EOLhyphen"/>ſtaunce of his Spirite, we maie with penitent hartes liue in his feare to our liues ende.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_demonic_possession">
+            <pb facs="tcp:18799:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>Straunge Newes out of <hi>Sommerſetſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the nineth day of May laſt paſt <hi>Anno. 1584.</hi> Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re was a Yeoman of honeſt re<g ref="char:EOLhyphen"/>putation, dwelling in the Towne of <hi>Dichet,</hi> which is within three miles of <hi>Bru<g ref="char:EOLhyphen"/>ton</hi> (the moſt auncient Towne within So<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>merſet ſhire) whoſe name is <hi>Stephen Cooper</hi> (a man of good wealth and well beloued of his neighbours:) who being ſicke, and lying in a weake ſtate, ſent his wife (whoſe name was <hi>Margeret Cooper</hi>) vppon the nineth daie of Maie laſt paſt into Gloſter-ſhire, to take order concerning a Farme whiche he hath in a Villedge called <hi>Rockhampton, alias Rockington,</hi> at whoſe comming thether, it ſeemed all things were not according to her minde. Thus continuing there one daie and ſomething more, ſhe returned home to her huſbande, partly agreeued at ſuche thinges as ſhe thought her huſbande might reforme
+<pb facs="tcp:18799:4"/>
+               <!-- PDF PAGE 4 -->if GOD lent him life. Now when ſhe was come home againe to <hi>Dichet,</hi> ſhe founde her huſband recouered to an indifferent health: to whom ſhe began to vſe very muche idle talke, aſwell concerning the ſame Farme, as alſo concerning an old groate which her ſonne (being a little boy) had found abought one weeke before. Thus ſhe continued (as it were one that had been bewitched or hau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ted with ſome euill ſpirite) vntill Tueſdaie at night following, whiche night ſhe tooke her reſt ſomething indifferently vntill to<g ref="char:EOLhyphen"/>wardes the morning: at whiche time ſhe be<g ref="char:EOLhyphen"/>gan with much vaine ſpeech to diſquiet her huſbande, and to vſe much idle talke: but her huſbande ſeeing her in ſuch a minde, and fin<g ref="char:EOLhyphen"/>ding that ſhe was as it were one that were deſperate, he perſwaded her to call vppon God, and that being the creature of God ſhe ſhould not forget to call vppon her Creator in the daie of trouble: wherefore he counſel<g ref="char:EOLhyphen"/>led her to praie with him, and to ſaie the Lordes Prayer after him, whiche ſhe partly did: But the deuill who alwaie doth builde his Chappell ſo neere as hee maie to vexe Gods Church, began to withdraw her from Prayer, and put her in minde to call in moſt
+<pb facs="tcp:18799:4"/>
+               <!-- PDF PAGE 4 -->fearfull ſorte for the groate which her ſonne had lately founde, as alſo for her Wedding ring, deſiring to ſee them with all ſpeede: her huſbande made no great haſt thereunto, but continued in praier, that it would pleaſe God to ſende her a more quiet ſpirite, and to ſtrengthen her, that faithe might ſpeedely vanquiſhe ſuch vanitie in her. But the more he praied and perſwaded her to Praier, the more ſhe ſeemed to bee as it were troubled with ſome euill Spirite, calling ſtill for the olde groate whiche her huſbande neglected to ſhew her: whereat ſhe began with a very ſterne and ſtaring countenaunce to looke on her huſbande in moſt wonderfull ſorte, as that he was ſore frighted with the ſame. The<g ref="char:cmbAbbrStroke">̄</g> he called for her Siſter, for that he was not able to keepe her in the bed: which when her Siſter and other were come into the Cham<g ref="char:EOLhyphen"/>ber, they kept her downe violently in y<hi rend="sup">e</hi> bed: and forthwith ſhe was ſo ſore tormented that ſhe fomed at the mouth, and was ſhake<g ref="char:cmbAbbrStroke">̄</g> with ſuche force that the Bedd and the Chamber did ſhake and moue in moſt ſtraunge ſorte: her huſbande continued praying for her de<g ref="char:EOLhyphen"/>liueraunce: ſo that within one halfe hower after her ſhaking was left, ſhe began to tell
+<pb facs="tcp:18799:5"/>
+               <!-- PDF PAGE 5 -->them that ſhe had been in the Toune to beat awaie the Beare whiche followed her into the Yarde when ſhe came out of the Coun<g ref="char:EOLhyphen"/>trie, which to her thinking had no hed. Then her huſbande and freendes perſwaded her to leaue thoſe vaine imaginations, perſwa<g ref="char:EOLhyphen"/>ding her that it was nothing but the light<g ref="char:EOLhyphen"/>neſſe of her braine whiche was become idle for want of reſt. Wherfore her huſband and freendes perſwaded her to ſaie the Lordes Praier with them, which ſhe did, and after tooke ſome ſmall reſt: And thus ſhe remai<g ref="char:EOLhyphen"/>ned vntill the Sunday following: in which time ſhe continued raging as it were be<g ref="char:EOLhyphen"/>ſtraught of her memorie, whiche came by fittes, to the greate greefe of her huſbande, freendes and neighbours. Vppon the Sat<g ref="char:EOLhyphen"/>terdaie following there was good hope of her recouerie, for that ſhe in the night before had taken ſome reaſonable reſt: her freendes and neighbours came to comforte her, yet ſometime ſhe would talke ſomewhat idely to them, which came by ſmall fittes. And vp<g ref="char:EOLhyphen"/>pon the Sundaie ſhe ſeemed very patient and confirmable to reaſon, vntill midnight: at which time the Candle which was ſet vp burning in the ſame Chamber was burned
+<pb facs="tcp:18799:5"/>
+               <!-- PDF PAGE 5 -->out: She then ſuddenly waking called to her huſbande and cryed out, ſaying, that ſhe did ſee a ſtraunge thing like vnto a Snaile, carrying fire in moſt wonderful ſort: Wher<g ref="char:EOLhyphen"/>at her huſbande was amazed: and ſeeing the Candle was cleane burnt out, called to his Brother and her Siſter (whiche were in the houſe with other of their freendes watching and ſitting vp, to comfort her if her extreame fitt ſhould any way moleſt her) who hearing her huſbande call, came in and brought a Candle lighted and ſet it on the table, which ſtood neere where the woman laie: She be<g ref="char:EOLhyphen"/>gan then to waxe as one very fearefull, ſay<g ref="char:EOLhyphen"/>ing to her huſbande and the reſt, doe you not ſee the Deuill: whereat they deſired her to remember God and to cal for grace, that her faith might bee onely fixed vppon him to the vanquiſhing of the Deuill, and his aſſaults. Well (quoth ſhe) if you ſee nothing now, you ſhall ſee ſomething by and by: and forth<g ref="char:EOLhyphen"/>with they heard a noiſe in the ſtreete as it had been the co<g ref="char:cmbAbbrStroke">̄</g>ming of two or three Carts, and preſently they in the Chamber cried out ſaying: Lord helpe vs what maner of thing is this that commeth here. Then her huſ<g ref="char:EOLhyphen"/>bande looking vp in his bedd eſpied a thing
+<pb facs="tcp:18799:6"/>
+               <!-- PDF PAGE 6 -->come to the bedd muche like vnto a Beare, but it had no head nor no taile, halfe a yarde in length and halfe a yarde in height: her huſbande ſeeing it come vp to the bed, roſe vp and tooke a ioyned ſtoole and ſtroke at the ſaied thing, the ſtroke ſounded as though he had ſtroken vppon a Featherbedd: then it came to the woman and ſtroke her three ti<g ref="char:EOLhyphen"/>mes vpon the feete, and tooke her out of the bed, and ſo roulled her to &amp; fro in the Cham<g ref="char:EOLhyphen"/>ber, and vnder the bed: The people there pre<g ref="char:EOLhyphen"/>ſent to the number of ſeuen perſons were ſo greatly amazed with this horrible ſight, that they knewe not what to doe, yet they called ſtill vpon God for his aſſiſtaunce: but the Candle was ſo dimme that they could ſcarſly ſée one another. At the laſt this Mon<g ref="char:EOLhyphen"/>ſter whiche we ſuppoſe to be the Deuill, did thruſt the womans hed betwixt her legges, and ſo roulled her in a rounde compaſſe like an Hoope through three other Chambers downe an high paire of ſtaires in the Hall, where he kept her the ſpace of a quarter of an hower: Her huſbande and they in the Chamber aboue durſt not come downe to her, but remained in praier weeping at the ſtaiers head, greeuouſly lamenting to ſee
+<pb facs="tcp:18799:6"/>
+               <!-- PDF PAGE 6 -->her ſo caried away. There was ſuche an hor<g ref="char:EOLhyphen"/>rible ſtincke in the Hall, and ſuche fierie fla<g ref="char:EOLhyphen"/>mes, that they were glad to ſtoppe their no<g ref="char:EOLhyphen"/>ſes with cloathes and napkins. Then the woman cried out calling to her huſbande, now he is gone: then (quoth he) in the name of God come vp to me, and ſo euen vpon the ſuddaine ſhe was come ſo quickly that they greatly marueiled at it. Then they brought her to bedd, and fower of them kept downe the cloathes about the bedd, and continued in Praier for her. The Candle in the Cham<g ref="char:EOLhyphen"/>ber could not burne cleere but was very dimme, and ſuddenly the woman was got out of the bed, and the windowe at the beds hed opened, whether the woman did vnpin the windowe, or how it came to paſſe they knewe not, but it was opened, and the wo<g ref="char:EOLhyphen"/>mans legges after a marueilous maner thruſt out at the windowe, ſo that they were claſped about the poſt in the middle of the windowe betweene her legges: The people in the Chamber heard a thing knocke at her feete as it had been vpon a Tubbe, and they ſawe a great fire as it ſeemed to them at her feete, the ſtincke whereof was horrible: The ſorrowfull huſbande and his brother imbol<g ref="char:EOLhyphen"/>dened
+<pb facs="tcp:18799:7"/>
+               <!-- PDF PAGE 7 -->themſelues in the Lorde, &amp; did charge the Deuill in the name of the Father, the Sonne, and the holy Ghoſt, to departe from her and to trouble her no more: then they laied handes on her and cried to the Lorde to helpe them in that their greate neede, and ſo pulde her in againe and ſet her vppon her fette: Then ſhe looked out at a window and began to ſaie: O Lord (quoth ſhe) me thinke I ſee a little childe, but they gaue no regard to her: Theſe wordes ſhe ſpake two or three times: ſo at the laſt they all looked out at the windowe: and loe they eſpied a thing like vnto a little child with a very bright ſhining countenaunce, caſting a greate light in the Chamber, &amp; then the Candle burned very brightly, ſo that they might one ſee an other: then fell they flat to the grounde and praiſed the Lorde that he had ſo wonderfully aſſiſted them, and ſo the child vaniſhed awaie. Then the woman beeing in ſome better feeling of her ſelf was laied in her bedd, and ſhe aſked forgiueneſſe at Gods handes, and of all that ſhe had offended, acknowledging that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was for her ſinnes that ſhe was ſo tormented of the euill Spirite. And ſo God bethanked ſhe hath euer ſince beene in ſome reaſonable
+<pb facs="tcp:18799:7"/>
+               <!-- PDF PAGE 7 -->order, for there hath beene with her many godly learn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d men, as M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſter Doctor <hi>Cot<g ref="char:EOLhyphen"/>tington,</hi> Parſon of the ſame Towne, and Maiſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Nicholles</hi> Preacher of <hi>Bruton,</hi> with other cheefe Preachers from diuers pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces of the Countrey.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_witnesses">
+            <list>
+               <head>¶ Theſe be the names of the VVit<g ref="char:EOLhyphen"/>neſſes, that this is moſt true.</head>
+               <item>Steuen Cooper.</item>
+               <item>Iohn Cooper.</item>
+               <item>Ales Easton.</item>
+               <item>Iohn Tomſon.</item>
+               <item>Iohn Anderton.</item>
+               <item>Myles Foster.</item>
+               <item>With diuers others.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
